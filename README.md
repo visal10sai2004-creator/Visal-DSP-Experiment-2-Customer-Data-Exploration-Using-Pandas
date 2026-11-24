@@ -30,8 +30,6 @@ To create a sample customer dataset and perform data exploration, filtering, sor
 
 ## Functions and Methods Used
 
-## Functions and Methods Used
-
 | **Category** | **Function / Method** | **Purpose / Description** |
 |---|---|---|
 | **Data Creation** | `pd.DataFrame()` | Converts a Python dictionary into a 2D labeled tabular DataFrame. |
